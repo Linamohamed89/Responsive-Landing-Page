@@ -37,3 +37,19 @@ a {
     overflow: hidden;
     background-color: var(--backgroundColor);
 }
+
+
+.container {
+    position: relative;
+    max-width: 81rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 3rem;
+    z-index: 10;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
