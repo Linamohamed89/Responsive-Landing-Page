@@ -72,3 +72,11 @@ align-items: center;
     margin-left: 4.5rem;
     display: inline-block;
 }
+
+.btn {
+   display: inline-block;
+   padding: .9rem 1.9rem;
+   color: #fff;!important
+   background: #202020;
+   border-radius: 16px;
+}
