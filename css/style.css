@@ -53,3 +53,22 @@ header .container {
     justify-content: space-between;
     align-items: center;
 }
+
+.logo h3 {
+    color: var(--darkTwo);
+    font-size: 1.55rem;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.links ul {
+display: flex;
+list-style: none;
+align-items: center;
+}
+
+.links a {
+    color: var(--lightTwo);
+    margin-left: 4.5rem;
+    display: inline-block;
+}
